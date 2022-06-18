@@ -258,7 +258,7 @@
           CURLOPT_CUSTOMREQUEST => "GET",
           CURLOPT_HTTPHEADER => [
             "X-RapidAPI-Host: yh-finance.p.rapidapi.com",
-            "X-RapidAPI-Key: 03332d4453msh236711597f21469p1ba64djsn3657f9054c07"
+            "X-RapidAPI-Key: PASTE YOUR API KEY HERE"
           ],
         ]);
 
@@ -299,7 +299,7 @@
           CURLOPT_CUSTOMREQUEST => "GET",
           CURLOPT_HTTPHEADER => [
             "X-RapidAPI-Host: yh-finance.p.rapidapi.com",
-            "X-RapidAPI-Key: 03332d4453msh236711597f21469p1ba64djsn3657f9054c07"
+            "X-RapidAPI-Key: PASTE YOUR API KEY HERE"
           ],
         ]);
 
@@ -341,7 +341,7 @@
           CURLOPT_CUSTOMREQUEST => "GET",
           CURLOPT_HTTPHEADER => [
             "X-RapidAPI-Host: yh-finance.p.rapidapi.com",
-            "X-RapidAPI-Key: 03332d4453msh236711597f21469p1ba64djsn3657f9054c07"
+            "X-RapidAPI-Key: PASTE YOUR API KEY HERE"
           ],
         ]);
 
@@ -383,7 +383,7 @@
           CURLOPT_CUSTOMREQUEST => "GET",
           CURLOPT_HTTPHEADER => [
             "X-RapidAPI-Host: yh-finance.p.rapidapi.com",
-            "X-RapidAPI-Key: 03332d4453msh236711597f21469p1ba64djsn3657f9054c07"
+            "X-RapidAPI-Key: PASTE YOUR API KEY HERE"
           ],
         ]);
 
