@@ -34,13 +34,6 @@ CREATE TABLE `wp_app_users` (
   `password` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Dumping data for table `wp_app_users`
---
-
-INSERT INTO `wp_app_users` (`id`, `name`, `email`, `password`) VALUES
-(3, 'Priyadarshi Guha', 'priyadarshiguha@gmail.com', '$2y$10$I1nEgiAV.jCzmu1wdXCYt.PqnoDa6rdAFcFTPT2Oapu273a16FfIu');
-
 -- --------------------------------------------------------
 
 --
